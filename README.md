@@ -12,8 +12,8 @@
 ## masih dalam pengembangan
 
 ## Tampilan WEB
-![](/Assets/capture.png)
-![](/Assets/capture1.png)
-![](/Assets/capture2.png)
-![](/Assets/capture3.png)
-![](/Assets/capture4.png)
+![](/Assets/Capture.png)
+![](/Assets/Capture1.png)
+![](/Assets/Capture2.png)
+![](/Assets/Capture3.png)
+![](/Assets/Capture4.png)
