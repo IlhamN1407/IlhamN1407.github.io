@@ -1,9 +1,12 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
 .jumbotron {
   padding-top: 6rem;
   background-color: #e2edff;
-}
-body {
-  min-height: 2000px;
 }
 
 #services {
