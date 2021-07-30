@@ -9,7 +9,7 @@
 
 - Zulyanto Ilham Nurrahman
 
-## masih dalam pengembangan
+## Website ini masih dalam pengembangan
 
 ## Tampilan WEB
 ![](/Assets/Capture.PNG)
